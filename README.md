@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b><a href="#get-access">Get access</a></b> · <a href="#gallery">Gallery</a> · <a href="#what-you-can-do">Features</a> · <a href="#works-with-your-ai-assistant">Supported clients</a> · <a href="#faq">FAQ</a>
+  <b><a href="#get-access">Get access</a></b> · <a href="#watch-the-demo">Demo video</a> · <a href="#gallery">Gallery</a> · <a href="#what-you-can-do">Features</a> · <a href="#works-with-your-ai-assistant">Supported clients</a> · <a href="#faq">FAQ</a>
 </p>
 
 # Chartiva: turn any AI assistant into a data-visualization analyst
@@ -27,6 +27,11 @@ Give your assistant a spreadsheet, a CSV export, a JSON API response, a network 
 You never write chart code. You keep talking instead: *"make it horizontal"*, *"highlight the top 5"*, *"use a dark theme"*, *"compare it with a violin plot"*, *"go back to the first version"*.
 
 > This repository is the public showcase. The software is commercial: see [Get access](#get-access).
+
+## Watch the demo
+
+<p align="center"><a href="https://github.com/waqasdaar/chartiva/blob/main/demo/chartiva-demo.mp4"><img src="demo/chartiva-demo-poster.jpg" alt="Watch the Chartiva demo video (82 seconds)" width="100%"></a></p>
+<p align="center"><b><a href="https://github.com/waqasdaar/chartiva/blob/main/demo/chartiva-demo.mp4">▶ Watch the 82-second demo</a></b>: eight questions, one answer, and five roles (CFO, data scientist, CIO, manager, network admin) getting real charts from plain-language requests.</p>
 
 ## Gallery
 
