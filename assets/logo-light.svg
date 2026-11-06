@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160" role="img" aria-labelledby="t d">
-  <title id="t">d3.js-mcp</title>
-  <desc id="d">AI-native data visualization over the Model Context Protocol</desc>
+  <title id="t">Chartiva</title>
+  <desc id="d">Chartiva: AI charts, dashboards and data analysis for your AI assistant</desc>
   <g transform="translate(16 16)">
 <defs>
     <linearGradient id="m-tile" x1="0" y1="0" x2="1" y2="1">
@@ -11,27 +11,25 @@
       <stop offset="0" stop-color="#22D3EE" stop-opacity="0.32"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="m-stem" gradientUnits="userSpaceOnUse" x1="0" y1="108" x2="0" y2="16">
+    <linearGradient id="m-stem" gradientUnits="userSpaceOnUse" x1="116" y1="0" x2="62" y2="0">
       <stop offset="0" stop-color="#8B5CF6"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
   <rect width="128" height="128" rx="30" fill="url(#m-tile)"/>
   <rect width="128" height="128" rx="30" fill="url(#m-glow)"/>
-  <g transform="translate(17 0)">
-    <!-- bowl of the "d": a donut chart -->
-    <g transform="translate(46 80)">
-      <path fill="#FFB020" d="M15.95,19.01A3,3,0,0,1,15.29,23.45A28,28,0,0,1,-6.35,27.27A3,3,0,0,1,-8.48,23.32L-6.07,16.67A3,3,0,0,1,-2.70,14.75A15,15,0,0,0,7.59,12.93A3,3,0,0,1,11.40,13.59Z"/>
-      <path fill="#FF3D7F" d="M-8.48,23.32A3,3,0,0,1,-12.66,24.97A28,28,0,0,1,-26.12,-10.08A3,3,0,0,1,-21.91,-11.65L-15.67,-8.33A3,3,0,0,1,-14.23,-4.73A15,15,0,0,0,-7.40,13.04A3,3,0,0,1,-6.07,16.67Z"/>
-      <path fill="#A855F7" d="M-21.04,-13.15A3,3,0,0,1,-21.79,-17.58A28,28,0,0,1,15.29,-23.45A3,3,0,0,1,15.95,-19.01L11.40,-13.59A3,3,0,0,1,7.59,-12.93A15,15,0,0,0,-11.21,-9.95A3,3,0,0,1,-15.05,-9.40Z"/>
-    </g>
-    <!-- stem of the "d": a bar whose top is a plug (MCP connector) -->
-    <rect x="62" y="44" width="13" height="64" rx="6.5" fill="url(#m-stem)"/>
-    <path d="M55 36 h27 a4 4 0 0 1 4 4 v6 a10 10 0 0 1 -10 10 h-15 a10 10 0 0 1 -10 -10 v-6 a4 4 0 0 1 4 -4 z" fill="url(#m-stem)"/>
-    <rect x="59.5" y="20" width="6.5" height="18" rx="2.2" fill="url(#m-stem)"/>
-    <rect x="71" y="20" width="6.5" height="18" rx="2.2" fill="url(#m-stem)"/>
+  <!-- a "C" drawn as a donut chart -->
+  <g transform="translate(52 64)">
+    <path fill="#FFB020" d="M25.11,20.33A3.5,3.5,0,0,1,25.37,25.53A36,36,0,0,1,-12.20,33.86A3.5,3.5,0,0,1,-14.16,29.04L-9.74,19.97A3.5,3.5,0,0,1,-5.57,18.16A19,19,0,0,0,12.72,14.10A3.5,3.5,0,0,1,17.27,13.98Z"/>
+    <path fill="#FF3D7F" d="M-16.15,27.98A3.5,3.5,0,0,1,-21.25,29.05A36,36,0,0,1,-33.86,-12.20A3.5,3.5,0,0,1,-29.04,-14.16L-19.97,-9.74A3.5,3.5,0,0,1,-18.16,-5.57A19,19,0,0,0,-11.94,14.77A3.5,3.5,0,0,1,-11.11,19.24Z"/>
+    <path fill="#A855F7" d="M-27.98,-16.15A3.5,3.5,0,0,1,-29.05,-21.25A36,36,0,0,1,25.81,-25.09A3.5,3.5,0,0,1,25.46,-19.89L17.51,-13.68A3.5,3.5,0,0,1,12.97,-13.88A19,19,0,0,0,-14.77,-11.94A3.5,3.5,0,0,1,-19.24,-11.11Z"/>
   </g>
-  </g>
+  <!-- a plug (MCP connector) inserted into the opening of the C -->
+  <rect x="64" y="55" width="18" height="6" rx="2.2" fill="url(#m-stem)"/>
+  <rect x="64" y="67" width="18" height="6" rx="2.2" fill="url(#m-stem)"/>
+  <path d="M80 50 h8 a10 10 0 0 1 10 10 v8 a10 10 0 0 1 -10 10 h-8 a3 3 0 0 1 -3 -3 v-22 a3 3 0 0 1 3 -3 z" fill="url(#m-stem)"/>
+  <rect x="96" y="59.5" width="18" height="9" rx="4.5" fill="url(#m-stem)"/>
+</g>
   <defs>
     <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FFB020"/>
@@ -41,7 +39,7 @@
     </linearGradient>
   </defs>
   <g font-family="Inter, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <text x="172" y="96" font-size="66" font-weight="800" letter-spacing="-2" fill="#0B1023">d3.js<tspan fill="url(#word)">-mcp</tspan></text>
-    <text x="175" y="128" font-size="17" font-weight="500" letter-spacing="0.4" fill="#5B6475">AI-native data visualization · Model Context Protocol</text>
+    <text x="172" y="96" font-size="66" font-weight="800" letter-spacing="-2" fill="#0B1023">Chart<tspan fill="url(#word)">iva</tspan></text>
+    <text x="175" y="128" font-size="17" font-weight="500" letter-spacing="0.4" fill="#5B6475">AI charts, dashboards &amp; data analysis · for any AI assistant</text>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo-light.svg" alt="d3.js-mcp: AI-native data visualization over the Model Context Protocol" width="560">
+    <img src="assets/logo-light.svg" alt="Chartiva: AI charts, dashboards and data analysis for any AI assistant" width="560">
   </picture>
 </p>
 
@@ -18,9 +18,9 @@
   <b><a href="#get-access">Get access</a></b> · <a href="#gallery">Gallery</a> · <a href="#what-you-can-do">Features</a> · <a href="#works-with-your-ai-assistant">Supported clients</a> · <a href="#faq">FAQ</a>
 </p>
 
-# Turn any AI assistant into a data-visualization analyst
+# Chartiva: turn any AI assistant into a data-visualization analyst
 
-**d3.js-mcp** is a Model Context Protocol (MCP) server and agent skill that lets AI assistants (Claude, ChatGPT, GitHub Copilot in VS Code, OpenCode/OpenChamber, Cursor, Gemini CLI and more) turn your data into **interactive charts, dashboards and analyses**.
+**Chartiva** is a Model Context Protocol (MCP) server and agent skill that lets AI assistants (Claude, ChatGPT, GitHub Copilot in VS Code, OpenCode/OpenChamber, Cursor, Gemini CLI and more) turn your data into **interactive charts, dashboards and analyses**.
 
 Give your assistant a spreadsheet, a CSV export, a JSON API response, a network topology or a map, and ask a question in plain language. It profiles the data, picks the right chart, draws it with [D3.js](https://d3js.org), checks the result, and hands you an **interactive HTML file** that opens in any browser, plus SVG, PNG, PDF, CSV and a reusable chart specification.
 
@@ -30,7 +30,7 @@ You never write chart code. You keep talking instead: *"make it horizontal"*, *"
 
 ## Gallery
 
-Every image below was produced by d3.js-mcp from a single plain-language request.
+Every image below was produced by Chartiva from a single plain-language request.
 
 | | |
 | :---: | :---: |
@@ -84,7 +84,7 @@ The download includes both parts: the **MCP server** (the tools) and the **agent
 
 ## How it works
 
-<p align="center"><img src="assets/architecture.png" alt="Architecture of d3.js-mcp" width="100%"></p>
+<p align="center"><img src="assets/architecture.png" alt="Architecture of Chartiva" width="100%"></p>
 
 ## What you get
 
@@ -96,9 +96,9 @@ The download includes both parts: the **MCP server** (the tools) and the **agent
 
 ## Get access
 
-d3.js-mcp is commercial software; using it requires a license.
+Chartiva is commercial software; using it requires a license.
 
-**To buy a license or ask a question, email [waqasdaar@gmail.com](mailto:waqasdaar@gmail.com?subject=d3.js-mcp%20license).** Please mention:
+**To buy a license or ask a question, email [waqasdaar@gmail.com](mailto:waqasdaar@gmail.com?subject=Chartiva%20license).** Please mention:
 
 - how many users need access,
 - which AI assistants you use (Claude, ChatGPT, VS Code, …),
@@ -125,4 +125,4 @@ Ask at the email above.
 
 ## License
 
-© 2026 Waqas Daar. All rights reserved. d3.js-mcp is proprietary software; use requires a paid license agreement. The text, screenshots, logos and diagrams in this repository are provided for information only and may not be reused without permission. D3.js is © Mike Bostock and used under its ISC license; other names and trademarks belong to their owners.
+© 2026 Waqas Daar. All rights reserved. Chartiva is proprietary software; use requires a paid license agreement. The text, screenshots, logos and diagrams in this repository are provided for information only and may not be reused without permission. D3.js is © Mike Bostock and used under its ISC license; other names and trademarks belong to their owners.
