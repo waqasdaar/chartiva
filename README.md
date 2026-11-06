@@ -30,8 +30,8 @@ You never write chart code. You keep talking instead: *"make it horizontal"*, *"
 
 ## Watch the demo
 
-<p align="center"><a href="https://github.com/waqasdaar/chartiva/blob/main/demo/chartiva-demo.mp4"><img src="demo/chartiva-demo-poster.jpg" alt="Watch the Chartiva demo video (82 seconds)" width="100%"></a></p>
-<p align="center"><b><a href="https://github.com/waqasdaar/chartiva/blob/main/demo/chartiva-demo.mp4">▶ Watch the 82-second demo</a></b>: eight questions, one answer, and five roles (CFO, data scientist, CIO, manager, network admin) getting real charts from plain-language requests.</p>
+<p align="center"><a href="https://waqasdaar.github.io/chartiva/demo/"><img src="demo/chartiva-demo-poster.jpg" alt="Watch the Chartiva demo video (82 seconds)" width="100%"></a></p>
+<p align="center"><b><a href="https://waqasdaar.github.io/chartiva/demo/">▶ Watch the 82-second demo</a></b>: eight questions, one answer, and five roles (CFO, data scientist, CIO, manager, network admin) getting real charts from plain-language requests.</p>
 
 ## Gallery
 
