@@ -12,6 +12,7 @@
   <img alt="MCP tools" src="https://img.shields.io/badge/MCP%20tools-21-22D3EE">
   <img alt="Platforms" src="https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-supported-3B82F6">
   <img alt="License" src="https://img.shields.io/badge/license-commercial-10B981">
+  [![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
 </p>
 
 <p align="center">
@@ -19,7 +20,6 @@
 </p>
 
 # Chartiva: turn any AI assistant into a data-visualization analyst
-[![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
 **Chartiva** is a Model Context Protocol (MCP) server and agent skill that lets AI assistants (Claude, ChatGPT, GitHub Copilot in VS Code, OpenCode/OpenChamber, Cursor, Gemini CLI and more) turn your data into **interactive charts, dashboards and analyses**.
 
 Give your assistant a spreadsheet, a CSV export, a JSON API response, a network topology or a map, and ask a question in plain language. It profiles the data, picks the right chart, draws it with [D3.js](https://d3js.org), checks the result, and hands you an **interactive HTML file** that opens in any browser, plus SVG, PNG, PDF, CSV and a reusable chart specification.
