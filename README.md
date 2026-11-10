@@ -131,4 +131,4 @@ Ask at the email above.
 
 © 2026 Waqas Daar. All rights reserved. Chartiva is proprietary software; use requires a paid license agreement. The text, screenshots, logos and diagrams in this repository are provided for information only and may not be reused without permission. D3.js is © Mike Bostock and used under its ISC license; other names and trademarks belong to their owners.
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n?v=edc8918a2929ab434f522b4238e3fecf)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
