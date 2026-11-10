@@ -12,7 +12,6 @@
   <img alt="MCP tools" src="https://img.shields.io/badge/MCP%20tools-21-22D3EE">
   <img alt="Platforms" src="https://img.shields.io/badge/macOS%20·%20Windows%20·%20Linux-supported-3B82F6">
   <img alt="License" src="https://img.shields.io/badge/license-commercial-10B981">
-  [![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
 </p>
 
 <p align="center">
@@ -131,3 +130,5 @@ Ask at the email above.
 ## License
 
 © 2026 Waqas Daar. All rights reserved. Chartiva is proprietary software; use requires a paid license agreement. The text, screenshots, logos and diagrams in this repository are provided for information only and may not be reused without permission. D3.js is © Mike Bostock and used under its ISC license; other names and trademarks belong to their owners.
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/waqasdaar-chartiva-1mnb5n)](https://m8ven.ai/mcp/waqasdaar-chartiva-1mnb5n?s=readme)
